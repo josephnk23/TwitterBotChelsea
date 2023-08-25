@@ -7,14 +7,14 @@ This repository contains a Python script that powers a Twitter bot providing Che
 - Fetch and tweet Chelsea FC news articles.
 - Post live scores during matches.
 - Schedule tweets for match updates.
-- Tweet random photos related to Chelsea FC.
+- Tweet visualised player statistics of Chelsea FC players.
 
 ## Usage
 
 1. Clone the repository.
 2. Set up your Twitter API credentials and other environment variables in a `.env` file.
 3. Install required dependencies using `pip install -r requirements.txt`.
-4. Run the script using `python twitter_bot.py`.
+4. Run the script using `python main.py`.
 
 ## Configuration
 
