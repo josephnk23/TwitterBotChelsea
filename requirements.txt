@@ -1,0 +1,6 @@
+requests
+Pillow
+feedparser
+schedule
+tweepy
+python-dotenv
