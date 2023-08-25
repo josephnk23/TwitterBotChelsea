@@ -1,7 +1,7 @@
 # ChelseaFC Twitter Bot
 
-This repository contains a Python script that powers a Twitter bot providing Chelsea FC news, live scores, and more. The bot fetches news articles, live scores, and match updates, and posts them on Twitter.
-
+This repository contains a Python script that powers a Twitter bot providing Chelsea FC news, live scores, and more. The bot fetches news articles, live scores, and match updates, and posts them on Twitter.To see the bot search '@tbbot00' on Twitter or follow this link https://twitter.com/tbbot00
+ 
 ## Features
 
 - Fetch and tweet Chelsea FC news articles.
